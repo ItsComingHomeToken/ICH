@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7aaa64ad.chunk.css",
+    "main.js": "/static/js/main.da5a9853.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.7c69e2af.js",
+    "static/css/2.5fe862ed.chunk.css": "/static/css/2.5fe862ed.chunk.css",
+    "static/js/2.391f71d4.chunk.js": "/static/js/2.391f71d4.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.391f71d4.chunk.js.LICENSE.txt": "/static/js/2.391f71d4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/SpaceSport.f17be530.ttf",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-Thin.4a799b11.ttf": "/static/media/Montserrat-Thin.4a799b11.ttf",
+    "static/media/styles.scss": "/static/media/hksized.0c35bd75.png",
+    "static/media/ichlrg.cfc7d5cd.png": "/static/media/ichlrg.cfc7d5cd.png",
+    "static/media/pcks_england.8ec8f774.png": "/static/media/pcks_england.8ec8f774.png",
+    "static/media/remixicon.css": "/static/media/remixicon.f2616f59.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c69e2af.js",
+    "static/css/2.5fe862ed.chunk.css",
+    "static/js/2.391f71d4.chunk.js",
+    "static/css/main.7aaa64ad.chunk.css",
+    "static/js/main.da5a9853.chunk.js"
+  ]
+}
